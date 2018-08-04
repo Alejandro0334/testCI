@@ -21,7 +21,7 @@ public class TestCI {
     }
     
     public static void main(String[] args) {
-        System.err.println("TESTCI");
+        System.err.println("TESTCI");;;
     }
     
 }
